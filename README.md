@@ -16,15 +16,7 @@ CSS: Styling the components.
 
 ### Project Structure
 
-`src/
-├── components/
-│   ├── GameBoard.jsx       // The main board for Tic Tac Toe
-│   ├── Player.jsx          // Player info and status
-│   ├── Log.jsx             // Displays game logs/turn history
-├── App.jsx                 // Main application logic
-├── WINNING_COMBINATIONS.js // Predefined winning combinations
-├── index.css               // Styles for the app
-├── index.js                // Entry point of the React application`
+src/ ├── components/ │ ├── GameBoard.jsx // The main board for Tic Tac Toe │ ├── Player.jsx // Player info and status │ ├── Log.jsx // Displays game logs/turn history ├── App.jsx // Main application logic ├── WINNING_COMBINATIONS.js // Predefined winning combinations ├── index.css // Styles for the app ├── index.js // Entry point of the React application
 
 ### Installation and Setup
 
